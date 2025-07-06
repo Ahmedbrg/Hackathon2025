@@ -53,8 +53,13 @@ Offline Support: Essential functions available without internet.
 Disease Recognition: Supports at least 3 major crop types.
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/7a249876-5846-420f-8328-e949ca222167)![image](https://github.com/user-attachments/assets/7d9be8d0-ea97-4891-870a-bad6d078c593)![image](https://github.com/user-attachments/assets/03794a7b-efe0-49e5-ac1a-aa3b02b51ade)![image](https://github.com/user-attachments/assets/c3b8da6f-684b-47b5-9b5b-199311b7c17e)![image](https://github.com/user-attachments/assets/edc9667c-d96b-4861-873f-3621d477811a)
-
+<p>
+  <img src="https://github.com/user-attachments/assets/7a249876-5846-420f-8328-e949ca222167" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7d9be8d0-ea97-4891-870a-bad6d078c593" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/03794a7b-efe0-49e5-ac1a-aa3b02b51ade" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c3b8da6f-684b-47b5-9b5b-199311b7c17e" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/edc9667c-d96b-4861-873f-3621d477811a" alt="Screenshot 2" width="200"/>  
+</p>
 
 🧩 Technologies Used
 React Native 
