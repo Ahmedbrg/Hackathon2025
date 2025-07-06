@@ -1,67 +1,115 @@
-# Hackathon2025
-AgriLink: A Collaboration and Diagnostic Platform for Agriculture I. Context: In the midst of a major digital transformation in the agricultural sector, farmers are in need of new digital solutions to help them solve their daily problems. This project aims to develop a mobile application that will enable farmers to consult with each other and quickly diagnose plant diseases.
+# Hackathon 2025 TGN
+📱 AgriLink (Tunisian Green Network) : A Collaboration and Diagnostic Platform for Agriculture
+AgriLink is a mobile application developed during a university hackathon to support farmers through digital collaboration and smart plant disease diagnosis.
+In an era of digital transformation in agriculture, AgriLink empowers farmers to share advice, quickly identify plant diseases, and reduce crop losses.
 
-II. Main Objective: Develop a mobile application that will enable farmers to exchange advice and experiences, identify plant diseases affecting their crops, and help them improve production and reduce losses.
+🌾 Key Features
+✅ Basic Features (First Release)
+Farmer Network
 
-III. Required Functions:
+Personal profile with GPS location and basic information.
 
-Basic Level (Required): Farmer Network: Personal Profile: Each farmer creates a profile with their GPS location and other information.
+Interactive map showing nearby farmers.
 
-Interactive Map: Displays the locations of nearby farmers.
+Consultation Service
 
-Consultation Service: Send a consultation request to other nearby farmers.
+Send and receive consultation requests with nearby farmers.
 
-Instruction Manual: A short guide explaining how to use the application.
+Plant Disease Diagnosis
 
-Plant Disease Diagnosis: Photographing and Uploading: The farmer photographs the diseased plant and uploads the image to the app.
+Take and upload clear photographs of diseased plants.
 
-Automatic Analysis: Identify diseases (at least 3 to 5 diseases using a smart API).
+Automatic disease analysis using a smart API (detects 3–5 common diseases).
 
-Share Discoveries: Share images and results with other farmers for consultation.
+Share images and diagnosis results with the farmer community.
 
-Advanced Level: Advanced Information: Crop History and Yield Analysis.
+Instruction Manual
 
-Rating System: Rate recommendations (from 1 to 5 stars) based on quality and usefulness.
+Simple guide to help farmers navigate and use the app easily.
 
-IV. Technical Limitations: The app must be compatible with mobile devices (Android is preferred).
+⭐ Advanced Features (Future Releases)
+Crop history tracking and yield analysis.
 
-A user-friendly interface for farmers.
+Rating system to evaluate advice and recommendations.
 
-The app must be available in offline mode.
+Offline mode for use in the field without internet access.
 
-Disease identification must be compatible with at least 3 important crop types.
+🚀 Objectives
+Facilitate farmer-to-farmer collaboration.
 
-Photography must be clear and accurate.
+Provide quick, AI-powered plant disease identification.
 
-V. Expected Stages: Release of a first version with the basics.
+Help farmers increase productivity and reduce losses.
 
-Clean and clear code.
+Make digital agriculture tools accessible to everyone, even in remote areas.
 
-Live demonstration of the app before the committee.
+🛠 Technical Details
+Platform: Android (preferred), compatible with other mobile devices.
 
-VI. Evaluation Criteria (100%):
+User Interface: Designed to be clear and farmer-friendly.
 
-Functional Implementation (65%): Collaborative Network among Farmers (25%).
-Plant Disease Diagnosis (25%).
+Offline Support: Essential functions available without internet.
 
-Advanced Functionality (15%).
+Disease Recognition: Supports at least 3 major crop types.
 
-Technical Quality (15%): Code Quality (5%).
+📸 Screenshots
+![image](https://github.com/user-attachments/assets/7a249876-5846-420f-8328-e949ca222167)
+![image](https://github.com/user-attachments/assets/7d9be8d0-ea97-4891-870a-bad6d078c593)
+![image](https://github.com/user-attachments/assets/03794a7b-efe0-49e5-ac1a-aa3b02b51ade)
+![image](https://github.com/user-attachments/assets/c3b8da6f-684b-47b5-9b5b-199311b7c17e)
+![image](https://github.com/user-attachments/assets/edc9667c-d96b-4861-873f-3621d477811a)
 
-Implementation Speed ​​(5%).
 
-Bug Handling (5%).
+🧩 Technologies Used
+React Native 
 
-User Experience (15%): Easy and Clear Interface for Farmers (5%).
+AI/ML API for plant disease detection
 
-Accessibility and Field Use (5%).
+Google Maps API for interactive maps
 
-Clean and Organized Design (5%).
+Firebase 
 
-Presentation and Innovation (5%): Clarity of Presentation (2%).
+✅ Hackathon Evaluation Criteria
+Functional Implementation: 65%
 
-Innovation and Novelty in Concept (1.5%).
+Farmer collaboration network (25%)
 
-True Impact on Farmers (1.5%).
+Plant disease diagnosis (25%)
 
-Long-Term Scalability and Sustainability (0.5%).
+Advanced functions (15%)
+
+Technical Quality: 15%
+
+Code quality, bug handling, speed
+
+User Experience: 15%
+
+Simplicity, clarity, field usability
+
+Presentation & Innovation: 5%
+
+Originality, clarity, real-world impact
+
+📍 Project Roadmap
+✅ Release first working prototype
+
+✅ Live demo before the committee
+
+✏️ Improve disease detection accuracy
+
+✏️ Add crop history and rating features
+
+✏️ Polish UI and offline mode
+
+## 📄 License
+MIT License
+
+---
+
+## 🙏 Acknowledgements
+- FSTSBZ (Faculty of Sciences and Technology of Sidi Bouzid)
+- Bargougui Ahmed
+
+🌱 Contribution
+Feel free to open issues or submit pull requests to improve AgriLink!
+Let’s build a smarter future for agriculture together.
