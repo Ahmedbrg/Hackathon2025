@@ -53,11 +53,7 @@ Offline Support: Essential functions available without internet.
 Disease Recognition: Supports at least 3 major crop types.
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/7a249876-5846-420f-8328-e949ca222167)
-![image](https://github.com/user-attachments/assets/7d9be8d0-ea97-4891-870a-bad6d078c593)
-![image](https://github.com/user-attachments/assets/03794a7b-efe0-49e5-ac1a-aa3b02b51ade)
-![image](https://github.com/user-attachments/assets/c3b8da6f-684b-47b5-9b5b-199311b7c17e)
-![image](https://github.com/user-attachments/assets/edc9667c-d96b-4861-873f-3621d477811a)
+![image](https://github.com/user-attachments/assets/7a249876-5846-420f-8328-e949ca222167)![image](https://github.com/user-attachments/assets/7d9be8d0-ea97-4891-870a-bad6d078c593)![image](https://github.com/user-attachments/assets/03794a7b-efe0-49e5-ac1a-aa3b02b51ade)![image](https://github.com/user-attachments/assets/c3b8da6f-684b-47b5-9b5b-199311b7c17e)![image](https://github.com/user-attachments/assets/edc9667c-d96b-4861-873f-3621d477811a)
 
 
 🧩 Technologies Used
@@ -104,11 +100,30 @@ Originality, clarity, real-world impact
 ## 📄 License
 MIT License
 
+Copyright (c) [2025] [Bargougui Ahmed]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ---
 
 ## 🙏 Acknowledgements
 - FSTSBZ (Faculty of Sciences and Technology of Sidi Bouzid)
-- Bargougui Ahmed
+- Bargougui Ahmed (hamoudabargougui@gmail.com)
 
 🌱 Contribution
 Feel free to open issues or submit pull requests to improve AgriLink!
